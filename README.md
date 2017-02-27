@@ -1,1 +1,2 @@
-# SayIt
+# Say It
+Twitter is a social networking mobile application that allows its users to post and interact with messages called tweets and users are restricted to a 140 character limit. The Wit.ai service provides developers with access to voice recognition and artificial intelligence and enabling them to connect their apps to it. Using the concept of how Twitter is used we propose a system that uses voice recognition in tweeting. Simply put, we want users to say what they want to tweet about and using the voice recognition technology convert it to text to give the user a preview of what they said and if they are satisfied they can tweet it. 
